@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42911
     wikipedia: http://fr.wikipedia.org/wiki/Jeanne_Lapauze
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44762#Chacune-son-R-ve
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-01-26'
 gutenberg_type: Text
